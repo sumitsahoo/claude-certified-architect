@@ -13,6 +13,10 @@ To request access to the official course/exam portal, use this link:
 - **English guide**: [`guide_en.MD`](./guide_en.MD)
 - **Russian guide**: [`guide_ru.MD`](./guide_ru.MD)
 
+## PDF
+
+- **English guide**: [`guide_en.pdf`](./guide_en.pdf)
+
 ## How to use
 
 - Read the guide that matches your preferred language.
