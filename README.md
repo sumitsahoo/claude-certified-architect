@@ -43,7 +43,8 @@ This repository contains study materials for the **Claude Certified Architect â€
 - Add new translations to your language in md files, PDF version will be generated automatically after merge of PR.
 
 
-## Stay in Touch
+## Follow:
 
-- Follow me on LinkedIn: https://www.linkedin.com/in/paullarionov/
+- LinkedIn: https://www.linkedin.com/in/paullarionov/
+- X: https://x.com/paullarionov?s=21&t=VTc-R7S1Res65NRI7BWTTg
 
