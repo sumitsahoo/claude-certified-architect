@@ -55,6 +55,7 @@ This repository contains study materials for the **Claude Certified Architect â€
 ## See Also
 
 - Claude Code: Commands Cheatsheet https://claude-guides.com
+- Top 80 Claude Skills, Agents & GitHub Repos for AI â€” The Complete Guide https://x.com/paullarionov/status/2038254131849134220
 
 ## How to Contribute
 
